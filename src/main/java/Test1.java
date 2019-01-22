@@ -3,5 +3,6 @@ public class Test1 {
         System.out.println("this is test1");
         System.out.println("this is newBranch1");
         System.out.println("add");
+        System.out.println("this is newBranch2");
     }
 }
